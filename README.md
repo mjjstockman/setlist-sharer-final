@@ -15,6 +15,8 @@
    - [User Demographics](#User-Demographics)
    - [User Stories](#User-Stories)
    - [Wireframes](#Wireframes)
+   - [Database Design](#Database-design) ADD ERD AND EXPLANTION
+   - [Kanban](#Kanban) ADD LINK AND EXPLANATION
    - [Changes to the design throughout development](#Changes-to-the-design-throughout-development)
    - [Colour Scheme](#Colour-Scheme)
    - [Typography](#typography)
@@ -53,13 +55,7 @@ The target market are individuals who are wanting to find out more about the col
 
 ## User Stories
 
-1. As a potential student, I want to quickly see what courses are offered, so I can see if they are of interest.
-
-2. As a potential student, I want to see some general "about" text, so I can confirm that I am on the correct site for my needs.
-
-3. As a potential student, I want to see facts and figures on student satisfaction, so I can gauge whether I want to enrol.
-
-4. As a potential student, I want to be able to contact the college, so that I can ask any questions I have.
+ADD THEMES ETC TABLE
 
 [Back to top ⇧](#Hull-College)
 
