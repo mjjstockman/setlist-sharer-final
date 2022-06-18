@@ -86,7 +86,8 @@ The target market are individuals who are wanting to find out more about the col
 
 |  Page | Small Screens | Medium Screens |  Large Screens |
 |-      | -             | -              |  -             |
-| Home   | <img  src="docs/readme_images/wireframes/small/index/home_with_comments.jpg"  alt="Wireframe of small screen">     | add link  | add link    |
+| Home  | <img  src="docs/readme_images/wireframes/small/index/home_with_comments.jpg"  alt="Wireframe of home page on a small screen">     | add link  | add link    |
+| Setlist/add  | <img  src="docs/readme_images/wireframes/small/index/setlist_add.jpg"  alt="Wireframe of setlist-page page on a small screen">     | add link  | add link    |
 
 <!-- |  Page | Small Screens | Medium Screens |  Large Screens |
 | --------------| -------------- | ------------ | | ------------ |
