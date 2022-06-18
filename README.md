@@ -61,7 +61,7 @@ The target market are individuals who are wanting to find out more about the col
 | 									|   |  #8 Sign up using social media |  Should have | 20 | No |
 | 					| Sign in  |  #3  Sign in using username / password | Must have | 2  | No |
 | 					| 			 | #9  Log in using social media | Should have | 21 | No |
-| 					| Log out  |  #6  Manual log out |   Must have | 3 | | No |
+| 					| Log out  |  #6  Manual log out |   Must have | 3 | No |
 | 					| 		|  #7  Automatic log out  | Won't have | 22 | No |
 |  Admin 		| Initial set up |  #22  Populate database |  Must have |  4 |No |
 |  				| Displaying setlists |  #18  Approve / reject a setlist submission | Must have  | 11 |  No | 
@@ -84,9 +84,13 @@ The target market are individuals who are wanting to find out more about the col
 
 ## Wireframes
 
-| Small screens | Medium screens | Largescreens |
-| --------------| -------------- | ------------ |
-| <img  src="assets/images/readme/wireframe-small.jpg"  alt="Wireframe of small screen"> | <img  src="assets/images/readme/wireframe-medium.jpg"  alt="Wireframe of medium screen"> | <img  src="assets/images/readme/wireframe-large.jpg"  alt="Wireframe of large screen"> |
+|  Page | Small Screens | Medium Screens |  Large Screens |
+|-      | -             | -              |  -             |
+| Home   | <img  src="docs/readme_images/wireframes/small/index/home_with_comments.jpg"  alt="Wireframe of small screen">     | add link  | add link    |
+
+<!-- |  Page | Small Screens | Medium Screens |  Large Screens |
+| --------------| -------------- | ------------ | | ------------ |
+| <img  src="assets/images/readme/wireframe-small.jpg"  alt="Wireframe of small screen"> | <img  src="assets/images/readme/wireframe-medium.jpg"  alt="Wireframe of medium screen"> | <img  src="assets/images/readme/wireframe-large.jpg"  alt="Wireframe of large screen"> | -->
 
 *Images created and taken from [Balsamiq](https://balsamiq.com/wireframes)*
 
