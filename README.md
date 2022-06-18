@@ -55,7 +55,30 @@ The target market are individuals who are wanting to find out more about the col
 
 ## User Stories
 
-ADD THEMES ETC TABLE
+| Theme  | Epic | Related User Stories  | MOSCOW |Order | Completed |
+|--|--|--|--|--|--|
+| Account Management  |  Sign up |  #5 Sign up using username / password |  Must have  |1 |  No |
+| 									|   |  #8 Sign up using social media |  Should have | 20 | No |
+| 					| Sign in  |  #3  Sign in using username / password | Must have | 2  | No |
+| 					| 			 | #9  Log in using social media | Should have | 21 | No |
+| 					| Log out  |  #6  Manual log out |   Must have | 3 | | No |
+| 					| 		|  #7  Automatic log out  | Won't have | 22 | No |
+|  Admin 		| Initial set up |  #22  Populate database |  Must have |  4 |No |
+|  				| Displaying setlists |  #18  Approve / reject a setlist submission | Must have  | 11 |  No | 
+|  				| Displaying photos |  #19  Approve / reject a photo submission  | Could have | 18 |  No | 
+|  				| Add venues |  #26 Add venues to the database   |  Must have  | 5  | No | 
+|  				| Add gigs |  #21 Add gigs to the database   | Must have  | 6 | No | 
+|  				| Add songs |  #20  Add song to the database  | Must have  | 7  |  No | 
+|  				| Add releases |  #25  Add releases to the database | Must have  | 8 |  No |
+| Setlist  |  Create a setlist |  #11  Submit a setlist  | Must have  | 10 |  No |
+|  		|                               |  #23  Update setlist | Should have | 13 | No |  
+|  		|                               |  #24  Delete setlist | Should have | 14  | No   |
+|  		|    Interact with setlist         |  #12  Agree / disagree with a setlist |  Should have | 15 | No |  
+|  		|                               |  #17  View numbers agreeing or disagreeing with a setlist | Should have | 16 | No |  
+|  		|                               |  #15  Submit a photo of a gig | Could have | 17  | No |  
+|  		|                               |  #13  View a photo of a gig | Could have | 19  | No |  
+|  		|                               |  #16 View setlist | Must have  |  12 | No | 
+|  	         |                               |  #10  View gigs on homepage | Must have  | 9  | No   |
 
 [Back to top ⇧](#Hull-College)
 
