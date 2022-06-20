@@ -15,8 +15,6 @@
    - [User Demographics](#User-Demographics)
    - [User Stories](#User-Stories)
    - [Wireframes](#Wireframes)
-   - [Database Design](#Database-design) ADD ERD AND EXPLANTION
-   - [Kanban](#Kanban) ADD LINK AND EXPLANATION
    - [Changes to the design throughout development](#Changes-to-the-design-throughout-development)
    - [Colour Scheme](#Colour-Scheme)
    - [Typography](#typography)
@@ -55,51 +53,25 @@ The target market are individuals who are wanting to find out more about the col
 
 ## User Stories
 
-| Theme  | Epic | Related User Stories  | MOSCOW |Order | Completed |
-|--|--|--|--|--|--|
-| Account Management  |  Sign up |  #5 Sign up using username / password |  Must have  |1 |  No |
-| 									|   |  #8 Sign up using social media |  Should have | 20 | No |
-| 					| Sign in  |  #3  Sign in using username / password | Must have | 2  | No |
-| 					| 			 | #9  Log in using social media | Should have | 21 | No |
-| 					| Log out  |  #6  Manual log out |   Must have | 3 | No |
-| 					| 		|  #7  Automatic log out  | Won't have | 22 | No |
-|  Admin 		| Initial set up |  #22  Populate database |  Must have |  4 |No |
-|  				| Displaying setlists |  #18  Approve / reject a setlist submission | Must have  | 11 |  No | 
-|  				| Displaying photos |  #19  Approve / reject a photo submission  | Could have | 18 |  No | 
-|  				| Add venues |  #26 Add venues to the database   |  Must have  | 5  | No | 
-|  				| Add gigs |  #21 Add gigs to the database   | Must have  | 6 | No | 
-|  				| Add songs |  #20  Add song to the database  | Must have  | 7  |  No | 
-|  				| Add releases |  #25  Add releases to the database | Must have  | 8 |  No |
-| Setlist  |  Create a setlist |  #11  Submit a setlist  | Must have  | 10 |  No |
-|  		|                               |  #23  Update setlist | Should have | 13 | No |  
-|  		|                               |  #24  Delete setlist | Should have | 14  | No   |
-|  		|    Interact with setlist         |  #12  Agree / disagree with a setlist |  Should have | 15 | No |  
-|  		|                               |  #17  View numbers agreeing or disagreeing with a setlist | Should have | 16 | No |  
-|  		|                               |  #15  Submit a photo of a gig | Could have | 17  | No |  
-|  		|                               |  #13  View a photo of a gig | Could have | 19  | No |  
-|  		|                               |  #16 View setlist | Must have  |  12 | No | 
-|  	         |                               |  #10  View gigs on homepage | Must have  | 9  | No   |
+1. As a potential student, I want to quickly see what courses are offered, so I can see if they are of interest.
+
+2. As a potential student, I want to see some general "about" text, so I can confirm that I am on the correct site for my needs.
+
+3. As a potential student, I want to see facts and figures on student satisfaction, so I can gauge whether I want to enrol.
+
+4. As a potential student, I want to be able to contact the college, so that I can ask any questions I have.
 
 [Back to top ⇧](#Hull-College)
 
 ## Wireframes
 
-|  Page | Small Screens | Medium Screens |  Large Screens |
-|-      | -             | -              |  -             |
-| Home  | <img  src="docs/readme_images/wireframes/small/index/home_with_comments.jpg"  alt="Wireframe of home page on a small screen">     | add link  | add link    |
-| Setlist/add  | <img  src="docs/readme_images/wireframes/small/index/setlist_add.jpg"  alt="Wireframe of setlist-page page on a small screen">     | add link  | add link    |
-
-<!-- |  Page | Small Screens | Medium Screens |  Large Screens |
-| --------------| -------------- | ------------ | | ------------ |
-| <img  src="assets/images/readme/wireframe-small.jpg"  alt="Wireframe of small screen"> | <img  src="assets/images/readme/wireframe-medium.jpg"  alt="Wireframe of medium screen"> | <img  src="assets/images/readme/wireframe-large.jpg"  alt="Wireframe of large screen"> | -->
+| Small screens | Medium screens | Largescreens |
+| --------------| -------------- | ------------ |
+| <img  src="assets/images/readme/wireframe-small.jpg"  alt="Wireframe of small screen"> | <img  src="assets/images/readme/wireframe-medium.jpg"  alt="Wireframe of medium screen"> | <img  src="assets/images/readme/wireframe-large.jpg"  alt="Wireframe of large screen"> |
 
 *Images created and taken from [Balsamiq](https://balsamiq.com/wireframes)*
 
 [Back to top ⇧](#Hull-College)
-
-## Database Design
-
-<img  src="docs/readme_images/ERD.jpg"  alt="Diagram of Database Design">
 
 ## Changes to the design throughout development
 
